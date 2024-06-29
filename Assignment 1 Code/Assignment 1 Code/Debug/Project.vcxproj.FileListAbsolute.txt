@@ -1,0 +1,2 @@
+C:\local\personal\asmbook\Project32_VS2022\Debug\Project.exe
+C:\local\personal\asmbook\Assignment1_CIS310_Fall23_LeahMirch\Debug\Project.exe
